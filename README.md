@@ -1,11 +1,11 @@
 # André da Silva
 
-## Tools
+## Languages
 
-* Linux
 * Python
-* HTML
-* CSS / Sass
+* Go
+* Rust
+* HTML / CSS
 * JavaScript / TypeScript
 * C#
 * C / C++
