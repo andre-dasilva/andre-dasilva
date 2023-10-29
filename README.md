@@ -5,6 +5,7 @@
 * Python
 * Go
 * Rust
+* Elixir
 * HTML / CSS
 * JavaScript / TypeScript
 * C#
