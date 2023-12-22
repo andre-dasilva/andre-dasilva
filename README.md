@@ -4,11 +4,11 @@
 
 * Python
 * Go
-* Rust
 * Elixir
+* C#
+* Rust
 * HTML / CSS
 * JavaScript / TypeScript
-* C#
 * C / C++
 
 ## Stats
