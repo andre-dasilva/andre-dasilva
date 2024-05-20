@@ -5,6 +5,7 @@
 * Python
 * Go
 * Elixir
+* Gleam
 * F#
 * C#
 * Rust
