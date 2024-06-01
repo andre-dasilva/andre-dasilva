@@ -4,14 +4,15 @@
 
 * Python
 * Go
-* Elixir
 * Gleam
+* Elixir
 * F#
 * C#
 * Rust
 * HTML / CSS
 * JavaScript / TypeScript
 * C / C++
+* PHP
 
 ## Stats
 
